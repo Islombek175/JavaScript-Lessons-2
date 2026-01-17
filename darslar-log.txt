@@ -1,3 +1,5 @@
 №22. Amaliyot. ClassList & Delegatsiya -- https://github.com/Islombek175/Food-Lower-Restaurnat-Practice/commit/d7bae43abb9f3ed1e9b40f374d3567ab0189d25e
 
 №25. Amaliyot. Date va Loader -- https://github.com/Islombek175/Food-Lower-Restaurnat-Practice/commit/90e32a2e4e9761bd24e5693a3da0a6cc702a68cd
+
+№27. Amaliyot. Document va Window Parametrlari -- https://github.com/Islombek175/Food-Lower-Restaurnat-Practice/commit/eaa9617bbb548882e83c2fa5ae261618ed40065c
